@@ -1,0 +1,20 @@
+{
+  "people": [
+    {
+      "name": "Rowan",
+      "email": "RowansAlwaysLearning@testing.com"
+    },
+    {
+      "name": "Chris",
+      "email": "ChrisNeverGivesUp@testing.com"
+    },
+    {
+      "name": "Percy",
+      "email": "PercysASnuggleBaby@testing.com"
+    },
+    {
+      "name": "Ashley",
+      "email": "AshleyIsTheHeartAndSoul@testing.com"
+    }
+  ]
+}
